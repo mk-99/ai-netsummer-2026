@@ -5,4 +5,5 @@ model: jetgpt/coding
 ---
 # Schemes
 Schemes should be build in PlantUML format.
-Network devices should be drawn as rectangles. Hostnames should be places inside this rectangles.
+
+Network devices should be drawn as rectangles. Host names should be placed inside this rectangles.

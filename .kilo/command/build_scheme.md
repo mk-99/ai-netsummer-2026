@@ -1,5 +1,5 @@
 ---
-description: Network summer AI session - schemes
+description: Network summer AI session - L1 scheme
 agent: code
 model: jetgpt/coding
 ---
