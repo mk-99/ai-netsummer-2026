@@ -17,7 +17,7 @@ Network devices should be drawn as rectangles.
 
 Host names should be placed inside these rectangles.
 
-Use "spline" modifier for lines.
+Use "spline" modifier globally. Syntax is "skinparam linetype spline". Do not user "spline" modifier for each line.
 
 Do not use [hidden] or similar modifiers in square brackets.
 
