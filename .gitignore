@@ -2,4 +2,6 @@
 *.pptx
 *.vsd
 *.vsdx
+*.doc
+*.docx
 workspace
